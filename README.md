@@ -36,3 +36,10 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 
 
 
+#Integrantes:
+-Luis Alberto Ccalluchi Lopez
+-Luis Angel Bustamante Torres
+-Angela Solange Sucso Choque
+-Erick Jesus Torres Quispe
+-Yamil Yonder LLampi Hancco
+-Evelyn Lizbeth Cusi Hancco
