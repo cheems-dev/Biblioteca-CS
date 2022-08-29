@@ -7,7 +7,8 @@ La documentación del proyecto la encuentras en la carpeta **doc**.
 
 El presente proyecto tiene la finalidad de aplicar todo lo aprendido a lo largo del semestre del curso de Ingenieria de Software carrera profesional de Ciencias de la Computación de la Universidad Nacional de San Agustín.
 Además de ello, el presente documento tiene como propósito elicitar ,especificar y analizar los requisitos de software y definir las especificaciones funcionales y no funcionales para el desarrollo de un sistema que simula una biblioteca web.
-
+ * [**Base de datos**](https://github.com/cheems-dev/Biblioteca-CS/blob/main/docs/07_bd.md)
+ * [**Funcionalidades**](https://github.com/cheems-dev/Biblioteca-CS/blob/main/docs/06_functionalities.md)
 ### **Tecnologias usadas 🦾**
 1. Frontend
 - TailwindCss
@@ -22,8 +23,6 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 - Laravel Sail
 - Docker
 - Trello
-
-### **Funcionalidades 🦾**
 
 ### **EVALUACIÓN TÉCNICA DEL PROYECTO 🦾**
 
