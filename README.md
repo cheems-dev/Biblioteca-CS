@@ -23,6 +23,8 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 - Docker
 - Trello
 
+### **Funcionalidades 🦾**
+
 ### **EVALUACIÓN TÉCNICA DEL PROYECTO 🦾**
 
 1. #### [**Estilos de Programación 📋**](https://github.com/cheems-dev/Biblioteca-CS/blob/main/docs/02_programming_styles.md)
