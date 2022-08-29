@@ -5,7 +5,9 @@ Haciendo uso de clases logramos mantener un codigo mas pequeño y ordenado
 En el nombre de las clases tenemos un sufijo que en este caso indican polimorfismo
 ![image](https://user-images.githubusercontent.com/38531618/187270861-6e703c2e-bfcd-4e37-a1aa-82d166267bcc.png)
 3. Docstrings: Documentaciòn del còdigo
+
 ![image](https://user-images.githubusercontent.com/38531618/187270946-db2e4301-a93f-4d73-8556-df78df32e8a0.png)
+
 4. Separar los modelos de las vistas y el controlador(MVC)
 El framework usado para el proyecto aplica lo que es MVC dado que todo esta separado segun esta arquitectura.
 
