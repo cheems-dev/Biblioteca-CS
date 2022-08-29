@@ -2,7 +2,7 @@
 Haciendo uso de clases logramos mantener un codigo mas pequeño y ordenado
 ![image](https://user-images.githubusercontent.com/38531618/187270761-39c162b5-6400-462d-a797-90707e9c9c1a.png)
 2. Class Name Suffixes
-Las clases tienen un sufijo las cuales indican polimorfismo
+Las clases tienen un sufijo que en este caso indican polimorfismo
 ![image](https://user-images.githubusercontent.com/38531618/187270861-6e703c2e-bfcd-4e37-a1aa-82d166267bcc.png)
 3. Docstrings  
 Documentaciòn del còdigo
