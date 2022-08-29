@@ -1,6 +1,6 @@
-
+-Vista principal
 ![image](https://user-images.githubusercontent.com/38531618/187268693-5a030c92-b8ca-4829-b805-5811910d9dd0.png)
-
+-Ingreso de administrador
 ![image](https://user-images.githubusercontent.com/38531618/187268853-71766838-e2ec-44b8-aae5-0145b010c0b1.png)
 ![image](https://user-images.githubusercontent.com/38531618/187268959-17bf0b94-05f2-4e12-91eb-9fecb4dfeffb.png)
 
