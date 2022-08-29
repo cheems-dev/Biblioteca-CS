@@ -7,6 +7,7 @@
 ![image](https://user-images.githubusercontent.com/38531618/187269027-5c3a55ec-4ab4-4051-b199-61e5b144d977.png)
 
 ![image](https://user-images.githubusercontent.com/38531618/187269150-5dc17032-e3cc-45be-a868-a22673e577dc.png)
+-Asignación de rol : Administrador y Usuario(Blogger)
 ![image](https://user-images.githubusercontent.com/38531618/187269292-10574493-de2d-41c7-897e-20d54fbc5138.png)
 
 ![image](https://user-images.githubusercontent.com/38531618/187269329-5e038b3e-c40c-4593-9670-24dd52b9feb6.png)
