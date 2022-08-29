@@ -35,7 +35,4 @@ Además de ello, el presente documento tiene como propósito elicitar ,especific
 4. #### [**Conceptos DDD aplicados**](https://github.com/cheems-dev/Biblioteca-CS/blob/main/docs/05_ddd.md)
 
 
-![image](https://user-images.githubusercontent.com/38531618/187271960-7b6d802f-372d-49a4-ae87-4bc5728732fe.png)
-
-
 
