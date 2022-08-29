@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/38531618/187103443-f8263bdb-980a-447b-927f-d1b367e75d66.png)
 
 2. Entities: 
-Existen diferentes entidades en el Sistema que desarrollamos, entre ellas podríamos mencionar las entidades Autor, Etiqueta, Post, Categoria, Paper y Usuario ya que son objeto del dominio que mantienen un estado y comportamiento más allá de la ejecución de la aplicación. A continuación se muestra la entidad Ponente, que posee una identificación única mediante su DNI.
+Existen diferentes entidades en el Sistema que desarrollamos, entre ellas podríamos mencionar las entidades Autor, Etiqueta, Post, Categoria, Paper y Usuario ya que son objeto del dominio que mantienen un estado y comportamiento más allá de la ejecución de la aplicación. A continuación se muestra la entidad Autor
 
 ![image](https://user-images.githubusercontent.com/38531618/187104230-e626c711-e120-4826-b3f9-2d0e88cdbf2f.png)
 
